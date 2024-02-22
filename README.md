@@ -1,6 +1,4 @@
-Certainly! Here's the README.md with all the steps and explanations included:
 
-```markdown
 # Docker-demo
 
 A simple project to get started with Docker.
